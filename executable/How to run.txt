@@ -1,0 +1,3 @@
+How to run: 
+Open the "executable" folder. 
+Run the .exe file named N_Queens.exe
